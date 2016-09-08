@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Base Converter</string>
+    <string name="enterNumber">Enter a Number</string>
+    <string name="inputBase">Enter the base you\'d like to convert from</string>
+    <string name="outputBase">Enter the base you\'d like to convert to</string>
+    <string name="convert">Convert</string>
+    <string name="noNumberToConvert">You haven\'t entered a number to convert yet!</string>
+    <string name="noInputBase">You haven\'t entered the input base yet!</string>
+    <string name="noOutputBase">You haven\'t entered the output base yet!</string>
+    <string name="error">Number did not fit the base!</string>
+    <string name="reset">Reset</string>
+
+</resources>
